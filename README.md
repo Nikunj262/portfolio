@@ -23,13 +23,13 @@ Welcome to my personal portfolio website! This site showcases my work, skills, a
 ## Responsive Design Screenshots
 
 ### Desktop View
-![Desktop View](path-to-desktop-image.jpg)
+![Alt text](<localhost_3000_ (5).png>) ![Alt text](<localhost_3000_ (4).png>) ![Alt text](<localhost_3000_ (3).png>)
 
 ### Tablet View
-![Tablet View](path-to-tablet-image.jpg)
+![Alt text](<localhost_3000_blog(iPad Pro) (2).png>) ![Alt text](<localhost_3000_blog(iPad Pro) (1).png>) ![Alt text](<localhost_3000_blog(iPad Pro).png>)
 
 ### Mobile View
-![Mobile View](path-to-mobile-image.jpg)
+![Alt text](<localhost_3000_resume(iPhone 14 Pro Max).png>)
 
 ## Installation and Setup
 Clone my project and follow bash code to start the project.
