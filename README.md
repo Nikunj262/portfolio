@@ -1,4 +1,3 @@
-Creating a `README.md` file for your portfolio site is a great way to introduce your project, its features, and technologies used. Here's a template that you can use and modify according to your specific project details:
 
 ---
 
